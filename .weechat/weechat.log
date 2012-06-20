@@ -1,0 +1,22 @@
+[2012-06-18 18:03:19] weechat 0.3.8 (compiled on Jun 17 2012 22:56:57)
+[2012-06-18 18:03:19] Reading configuration file weechat.conf
+[2012-06-18 18:03:19] Reading configuration file plugins.conf
+[2012-06-18 18:03:19] Reading configuration file alias.conf
+[2012-06-18 18:03:19] Reading configuration file irc.conf
+[2012-06-18 18:03:19] irc: connecting to server chat.freenode.net/6667...
+[2012-06-18 18:03:19] Reading configuration file logger.conf
+[2012-06-18 18:03:19] Reading configuration file relay.conf
+[2012-06-18 18:03:19] Reading configuration file rmodifier.conf
+[2012-06-18 18:03:19] Reading configuration file xfer.conf
+[2012-06-18 19:57:33] irc: connecting to server chat.freenode.net/6667...
+[2012-06-19 07:35:13] irc: connecting to server chat.freenode.net/6667...
+[2012-06-19 12:07:58] irc: connecting to server chat.freenode.net/6667...
+[2012-06-19 18:53:34] irc: connecting to server chat.freenode.net/6667...
+[2012-06-19 19:15:12] Writing configuration file plugins.conf 
+[2012-06-19 19:15:12] Writing configuration file xfer.conf 
+[2012-06-19 19:15:12] Writing configuration file rmodifier.conf 
+[2012-06-19 19:15:12] Writing configuration file relay.conf 
+[2012-06-19 19:15:12] Writing configuration file logger.conf 
+[2012-06-19 19:15:12] Writing configuration file irc.conf 
+[2012-06-19 19:15:12] Writing configuration file alias.conf 
+[2012-06-19 19:15:12] Writing configuration file weechat.conf 
